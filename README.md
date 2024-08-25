@@ -25,4 +25,4 @@
 }
 ```
 - Now, click button named *Create api*
-- Copy the URL created and put value for env *API_URL_SCRAPE*
+- Copy the URL created and set value on env *API_URL_SCRAPE*
